@@ -1,5 +1,7 @@
 
-[![MasterHead](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)](https://anikdhabal.io)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <h1 align="center">Hi 👋, I'm Anik Dhabal Babu</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
