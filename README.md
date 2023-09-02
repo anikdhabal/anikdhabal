@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikdhabal&label=Profile%20views&color=0e75b6&style=flat" alt="anikdhabal" /> </p>
+
 
 - 💬 Ask me about **Web Dev, Open Source**
 
