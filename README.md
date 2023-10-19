@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **adhabal2002@gmail.com**
 
-- ⚡ Fun fact **I have a good sense of humor.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anikdhabal" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="anikdhabal" height="30" width="40" /></a>
